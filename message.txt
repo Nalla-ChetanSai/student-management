@@ -1,1 +1,3 @@
-Welcome to Student Management 
+<<<<<<< HEAD
+welcome to student management and student portal
+>>>>>>> feature/student-details
